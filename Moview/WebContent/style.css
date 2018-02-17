@@ -1,0 +1,9 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	margin: 0 auto;
+	/*border: solid black;
+	border-width: 1px;*/
+	padding-top: 10px;
+	padding-left: 10px;
+}
